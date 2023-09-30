@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import React, { useEffect } from 'react';
 import animation from './deleteButtonAnimation.js';
+=======
+import React from 'react';
+import "./TaskList.css"
+>>>>>>> 5328122c21536184c3893a4af6623b59bf7add2e
 
 function TaskList({ tasks, onDeleteTask }) {
 
